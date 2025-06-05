@@ -1,1 +1,11 @@
+void setup(){
+  Serial.begin(9600);
+}
 
+void loop(){
+  int pointer = analogRead(A0);
+  int middle = analogRead(A1);
+  int ring = analogRead(A2);
+  Serial.println(pointer);
+  delay(1000);
+}
