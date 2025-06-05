@@ -1,1 +1,1 @@
-# Catapult-project-power-glove 2.0
+# Catapult-project
